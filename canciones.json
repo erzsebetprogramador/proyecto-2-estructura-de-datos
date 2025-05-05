@@ -1,0 +1,26 @@
+{
+    "canciones": [
+        {
+            "nombre": "fetty wap trap ",
+            "artista": "by tony fadd",
+            "duracion": 244.29449462890625,
+            "ruta": "C:/Users/rosel/Downloads/ytmp3free.cc_fetty-wap-trap-queen-official-video-prod-by-tony-fadd-youtubemp3free.org.wav",
+            "imagen": "C:/Users/rosel/Downloads/imagenes de las canciones/fetty.jpeg"
+        },
+        {
+            "nombre": "como un duende",
+            "artista": "alux nahual",
+            "duracion": 275.904,
+            "ruta": "C:/Users/rosel/Downloads/ytmp3free.cc_como-un-duende-remasterizada-youtubemp3free.org.mp3",
+            "imagen": "C:/Users/rosel/Downloads/imagenes de las canciones/como un duende.jpg"
+        },
+        {
+            "nombre": "de nata y algodon",
+            "artista": "rupatrupa",
+            "duracion": 249.051375,
+            "ruta": "C:/Users/rosel/Downloads/imagenes de las canciones/RUPATRUPA - De algod\u00f3n y nata (Directo en el cuartito de la lavadora) - Rupatrupa.mp3",
+            "imagen": "C:/Users/rosel/Downloads/imagenes de las canciones/rupatrupa.jpg"
+        }
+    ],
+    "actual": 2
+}
